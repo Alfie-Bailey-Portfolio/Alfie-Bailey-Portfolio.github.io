@@ -1,0 +1,26 @@
+#Title{
+  color: aqua;
+  font-size: 72px;
+  text-align: center;
+}
+#Paragraph1{
+    font-family: monospace;
+    font-size: 20px;
+    color: gray;
+    text-align: center;
+    
+}
+body{
+    background-color: floralwhite
+}
+#logo{
+    width: 200px;
+    height: 250px;
+   display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+#Work{
+    background-color: black;
+}
